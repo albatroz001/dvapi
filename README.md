@@ -59,7 +59,7 @@ git clone https://github.com/albatroz001/dvapi
 2.  Navigate to the DVAPI directory:.
 
 ```bash
-cd DVAPI
+cd dvapi
 ```
 
 3.  Use `docker compose` to build and run the application:
